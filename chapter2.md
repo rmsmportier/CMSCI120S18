@@ -1,5 +1,5 @@
 ---
-title       : Lab 2
+title       : Lab 3
 description : CMSCI 120 Lab Assignment
 
 --- type:NormalExercise lang:python xp:100 skills:1 key:b66b5626af
